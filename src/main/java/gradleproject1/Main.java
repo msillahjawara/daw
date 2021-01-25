@@ -17,7 +17,8 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Primer proyecto de mahamadou el netbeans");
-        System.out.println("Segunda l�nea");
+        System.out.println("Segunda línea");
+        System.out.println("Cuarta línea, tercera no añadida");
     }
     
 }
